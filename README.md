@@ -1,1 +1,1 @@
-This is an Expense Manager Web App built on React.
+This is an Income Expense Analyzer Web App built on React.
