@@ -1,1 +1,0 @@
-This is an Expense Manager Web App built on React.
